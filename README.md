@@ -81,6 +81,28 @@ _For more information, please refer to the [Wiki][wiki]._
 - 0.1
   - Work in progress
 
+## Meta 
+Aditya Nadamuni – [@A6ityo](https://twitter.com/a6ityo) – aditya.nadamuni@gmail.com
+
+Distributed under the `GNU General Public License v3.0` . See `LICENSE` for more information.
+
+[https://github.com/aditya-nadamuni](https://github.com/aditya-nadamuni)
 <!-- Markdown link & img dfn's -->
 
 [wiki]: https://en.wikipedia.org/wiki/MP3
+
+## Libraries Used
+
+> - Pydub  = For Audio formatting and exporting    
+> - Tkinter =  GUI for python  
+
+## Under Development
+
+> Better UI
+> MacOS Application
+> More Options
+
+## Note
+
+> **This Is An initial Build and May Contain Bugs While Running. All Suggestions and
+Reporting For Bugs are Welcome.**
